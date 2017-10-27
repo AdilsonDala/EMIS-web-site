@@ -1,0 +1,223 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Helvetica, sans-serif;
+	color: #666;
+}
+
+.prin {
+	width: 100%;
+	height: 100%;
+}
+
+.nav {
+	width: 70%;
+	margin: 3% auto;
+	padding: auto;
+}
+
+.menu ul li {
+	list-style: none;
+	display: inline-block;
+}
+
+.menu ul li a {
+	text-decoration: none;
+	color: #888;
+    padding: .5em 1.5em .5em 0;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.photo {
+	width: 100%;
+	height: 50%;
+}
+
+.contacto {
+	color: white;
+	background: #21b4d2;
+	margin-top: -1%;
+	text-align: center;
+}
+
+.ctt {
+	text-align: center;
+	margin: 1%;
+}
+
+.sba {
+	width: 100%;
+	margin-top: 4%;
+	margin-bottom: 3%;
+}
+
+
+.em4 {
+	color: black;
+	text-align: center;
+}
+
+.paragrafos {
+	text-align: center;
+	margin-top: 1%;	
+}
+
+.em6 {
+	margin-top: 1%;
+	text-align: center;
+	margin-bottom: 3%;
+}
+
+.tel {
+	font-weight: 700;
+}
+
+h2 {
+	font-size: 1.4em;
+    margin-bottom: 0;
+    padding-top: 2%;
+    padding-bottom: 1%;
+}
+.pddbtt {
+	padding-bottom: 1%;
+}
+
+.em{
+	color: black;
+	margin: 1% 45%;
+}
+
+.em1 {
+	margin: 1px 38%;
+}
+
+.imgem {
+	width: 100%;
+	height: 230px;
+}
+
+.imgem1 {
+	width: 100%;
+	height: 200px;
+}
+
+.img {
+	height: auto;
+	border: 0;
+    width: auto;
+    max-width: 100%;
+    vertical-align: top;
+}
+
+.link {
+	color: #f85800;
+}
+
+i {
+	color: #666;
+}
+
+h3 {
+	color: #404040;
+    font-weight: 700;
+    line-height: 1.16;
+    font-size: 1.5em;
+    margin-top: 3%;
+    margin-bottom: .87em;
+}
+
+.coluna1 {
+	float: left;
+	width: 47%;
+	margin-bottom: 15%;
+}
+
+.coluna2 {
+	float: right;
+	width: 47%;
+	margin-bottom: 15%;
+}
+
+.coluna3 {
+	float: left;
+	width: 49%;
+	margin-bottom: 10%;
+}
+
+.coluna4 {
+	float: right;
+	width: 49%;
+}
+
+.lm {
+	margin: 0 2%;
+}
+
+.footer1 {
+	float: left;
+	width: 47%;
+}
+
+.footer2 {
+	float: right;
+	width: 47%;
+}
+
+.centro {
+	width: 70%;
+	margin: auto;
+	overflow: auto;
+}
+
+.conta {
+	width: 100%;
+	background: #20b4d2;
+	margin-top: 15%;
+	color: white;
+}
+
+.parasi {
+	text-align: center;
+	margin-top: 3%;
+	color: black;
+}
+
+.linksec {
+	text-decoration: none;
+	color: black;
+}
+footer {
+	background-image: url("../img/map.jpg");
+	width: 100%;
+	height: 140px;
+	clear: both;
+}
+footer ul li{
+	list-style: none;
+	display: inline-block;
+}
+.a {
+	color: white;
+	text-decoration: none;
+	margin: 1px;
+}
+.subtitulos {
+	font-size: 1em;
+    margin-top: 2%;
+    margin-bottom: 3%;
+    text-align: center;
+    color: #666;
+}
+.h4 {
+	color: #404040;
+    font-weight: 700;
+    line-height: 1.16;
+    font-size: 1.25em;
+    margin-top: 4%;
+    margin-bottom: 1.044em;
+    text-align: center;
+}

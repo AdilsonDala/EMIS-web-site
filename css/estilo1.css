@@ -1,0 +1,223 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Helvetica, sans-serif;
+	color: #666;
+}
+
+.prin {
+	width: 100%;
+	height: 100%;
+}
+
+.nav {
+	width: 70%;
+	margin: 1% auto;
+	padding: auto;
+}
+
+.menu ul li {
+	list-style: none;
+	display: inline-block;
+}
+
+.menu ul li a {
+	text-decoration: none;
+	color: #888;
+    padding: .5em 1.5em .5em 0;
+    font-weight: 400;
+    cursor: pointer;
+}
+
+.nav1 {
+	width: 50%;
+	margin: 2% auto;
+	padding: auto; 
+}
+
+.menu1 ul li {
+	list-style: none;
+	display: inline-block;
+	padding-bottom: 10%;
+}
+
+.menu1 ul li a {
+	text-decoration: none;
+    padding: .5em 1.5em .5em 0;
+    font-weight: 400;
+    cursor: pointer;
+    font-family: Helvetica, sans-serif;
+}
+
+.tab {
+	border-top-left-radius: 3%;
+	border-top-right-radius: 3%;
+	background-color: #20b4d2;
+	color: white;
+}
+
+.spanclass {
+	color: #33cccc;
+}
+
+.imgpca {
+	float: left; margin-right: 1em;
+	width: 40%;
+	height: 80%;
+}
+
+.photo {
+	width: 100%;
+	height: 300px;
+}
+
+.contacto {
+	color: white;
+	background: #21b4d2;
+	margin-top: -1%;
+}
+
+.paragrafos {
+	text-align: center;
+	margin-top: 1%;	
+}
+
+.tel {
+	font-weight: 700;
+	margin-top: 1%;
+	margin-bottom: 1%;
+}
+
+.imgem {
+	width: 100%;
+	height: 230px;
+}
+
+.imgem1 {
+	width: 100%;
+	height: 200px;
+}
+
+.img {
+	height: auto;
+	border: 0;
+    width: auto;
+    max-width: 100%;
+    vertical-align: top;
+}
+
+.link {
+	color: #f85800;
+}
+
+i {
+	color: #666;
+}
+
+h3 {
+	color: #404040;
+    font-weight: 700;
+    line-height: 1.16;
+    font-size: 1.5em;
+    margin-top: 3%;
+    margin-bottom: .87em;
+}
+
+.coluna1 {
+	float: left;
+	width: 47%;
+	margin-bottom: 15%;
+}
+
+.coluna2 {
+	float: right;
+	width: 47%;
+	margin-bottom: 15%;
+}
+
+.coluna3 {
+	float: left;
+	width: 49%;
+}
+
+.coluna4 {
+	float: right;
+	width: 49%;
+}
+
+.lm {
+	margin: 0 2%;
+}
+
+.footer1 {
+	float: left;
+	width: 47%;
+}
+
+.footer2 {
+	float: right;
+	width: 47%;
+}
+
+.centro {
+	width: 70%;
+	margin: auto;
+	overflow: auto;
+}
+
+.conta {
+	width: 100%;
+	background: #20b4d2;
+	margin-top: 15%;
+	color: white;
+}
+footer {
+	background-image: url("../img/map.jpg");
+	width: 100%;
+	height: 140px;
+	clear: both;
+}
+footer ul li{
+	list-style: none;
+	display: inline-block;
+}
+.a {
+	color: white;
+	text-decoration: none;
+	margin: 1px;
+}
+
+.centro2 {
+	width: 100%;
+	overflow: auto;	
+}
+#quem-somos h2, h3 {
+	color: #20b4d2;
+	font-size: 1.6em;
+}
+
+#mensagem-do-presidente {
+	margin-top: 10%; 
+}
+
+#accionistas {
+	margin-top: 10%;
+}
+
+#relatorio-e-contas {
+	margin-top: 10%;
+}
+
+p {
+	font-size: 1em;
+	margin-top: 3%;
+	margin-bottom: 3%;
+}
+
+li, h4 {
+	margin-top: 3%;
+	margin-bottom: 3%;	
+}
